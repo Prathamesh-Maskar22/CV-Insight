@@ -35,7 +35,6 @@ Follow the steps below to run the project locally:
 
 ```bash
 git clone https://github.com/Prathamesh-Maskar22/CV-Insight.git
-cd CV-Insight
 cd client
 npm run dev
 
